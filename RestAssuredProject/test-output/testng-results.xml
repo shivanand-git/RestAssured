@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-11-07T14:47:22 IST" name="Default suite" finished-at="2026-11-07T14:47:41 IST" duration-ms="18898">
+    <groups>
+    </groups>
+    <test started-at="2026-11-07T14:47:22 IST" name="Default test" finished-at="2026-11-07T14:47:41 IST" duration-ms="18898">
+      <class name="com.test.automation.restassured.TC_0001_GetRequest">
+        <test-method signature="tc0002postMethod()[pri:0, instance:com.test.automation.restassured.TC_0001_GetRequest@5b8dfcc1]" started-at="2026-11-07T14:47:23 IST" name="tc0002postMethod" finished-at="2026-11-07T14:47:38 IST" duration-ms="15668" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc0002postMethod -->
+        <test-method signature="tc0003putRequest()[pri:0, instance:com.test.automation.restassured.TC_0001_GetRequest@5b8dfcc1]" started-at="2026-11-07T14:47:38 IST" name="tc0003putRequest" finished-at="2026-11-07T14:47:39 IST" duration-ms="815" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc0003putRequest -->
+        <test-method signature="tc0004patchRequest()[pri:0, instance:com.test.automation.restassured.TC_0001_GetRequest@5b8dfcc1]" started-at="2026-11-07T14:47:39 IST" name="tc0004patchRequest" finished-at="2026-11-07T14:47:40 IST" duration-ms="569" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc0004patchRequest -->
+        <test-method signature="tc0005deleteRequest()[pri:0, instance:com.test.automation.restassured.TC_0001_GetRequest@5b8dfcc1]" started-at="2026-11-07T14:47:40 IST" name="tc0005deleteRequest" finished-at="2026-11-07T14:47:40 IST" duration-ms="543" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc0005deleteRequest -->
+        <test-method signature="tc001getMethod()[pri:0, instance:com.test.automation.restassured.TC_0001_GetRequest@5b8dfcc1]" started-at="2026-11-07T14:47:40 IST" name="tc001getMethod" finished-at="2026-11-07T14:47:41 IST" duration-ms="740" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc001getMethod -->
+      </class> <!-- com.test.automation.restassured.TC_0001_GetRequest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
